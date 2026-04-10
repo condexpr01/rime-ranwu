@@ -1,0 +1,10 @@
+#!/usr/bin/bash
+
+# 合并分码长文件
+
+count=1
+while [ -f "breakup${count}.txt" ];do
+	cat breakup${count}.txt
+	((count++))
+done
+

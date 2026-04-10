@@ -1,0 +1,23 @@
+#!/usr/bin/bash
+
+# 分码长,标准格式
+
+if [ -z "$1" ] && ! [ -f "$file" ]; then
+	echo "Usage: $0 <dictionary_file>"
+	echo "dictionary_file format: 编码,序号=字词,频数\n"
+	echo "拆分后可以用breakupds-merge合并"
+	exit 1
+else
+	dots="."
+	count=1
+	while grep -P "^${dots},[0-9]*=" "$1" > breakup${count}.txt; do
+		dots="${dots}."
+		((count++))
+	done
+
+	#尾处理
+	rm breakup${count}.txt
+
+fi
+
+

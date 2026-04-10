@@ -1,0 +1,14 @@
+#!/bin/sh
+
+if [ -z "$1" ] && ! [ -f "$file" ]; then
+	echo "Usage: $0 <dictionary_file>"
+	echo "dictionary_file format: 编码\t字词\n"
+	exit 1
+else
+	#sed unicode不安全...
+	#cat  "${1}" |sed 's/^\([^\t]*\)[\t]*\([^\t]*\)$/\1,=\2,/'
+
+	perl -CSD -pe 's/\r$//' "${1}" | \
+	perl -CSD -pe 's/^([^\t]*)[\t]*([^\t\n]*)$/$1,=$2,/'
+
+fi

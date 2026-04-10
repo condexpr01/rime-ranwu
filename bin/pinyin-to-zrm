@@ -1,0 +1,111 @@
+#!/bin/sh
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+if [ -z "$1" ] && ! [ -f "$file" ]; then
+	echo "Usage: $0 <dictionary_file>"
+	echo "dictionary_file format: 编码,序号=字词,频数\n"
+	echo "e.g. ce_shi,=测试,"
+	exit 1
+else
+
+perl -CA -pe '
+s/(iong|iang|uang|ing|uai|ong|eng|ang|van|uan|iao|ian|iu|ia|ua|ve|ue|zh|sh|ch|uo|vn|un|en|an|ao|ai|ei|ie|ui|ou|in)/(
+    $1 eq "iong"?"s":
+    $1 eq "iang"?"d":
+    $1 eq "uang"?"d":
+    $1 eq "ing"?"y":
+    $1 eq "uai"?"y":
+    $1 eq "ong"?"s":
+    $1 eq "eng"?"g":
+    $1 eq "ang"?"h":
+    $1 eq "van"?"r":
+    $1 eq "uan"?"r":
+    $1 eq "iao"?"c":
+    $1 eq "ian"?"m":
+    $1 eq "iu"?"q":
+    $1 eq "ia"?"w":
+    $1 eq "ua"?"w":
+    $1 eq "ve"?"t":
+    $1 eq "ue"?"t":
+    $1 eq "zh"?"v":
+    $1 eq "sh"?"u":
+    $1 eq "ch"?"i":
+    $1 eq "uo"?"o":
+    $1 eq "vn"?"p":
+    $1 eq "un"?"p":
+    $1 eq "en"?"f":
+    $1 eq "an"?"j":
+    $1 eq "ao"?"k":
+    $1 eq "ai"?"l":
+    $1 eq "ei"?"z":
+    $1 eq "ie"?"x":
+    $1 eq "ui"?"v":
+    $1 eq "ou"?"b":
+    $1 eq "in"?"n":$1
+)/ge;
+
+#零声母: a ai an ang ao e ei en eng er o ou
+s/^a,/aa,/g;
+s/^a_/aa_/g;
+s/_a_/_aa_/g;s/_a_/_aa_/g;
+s/_a,/_aa,/g;
+
+s/^l,/ai,/g;
+s/^l_/ai_/g;
+s/_l_/_ai_/g;s/_l_/_ai_/g;
+s/_l,/_ai,/g;
+
+s/^j,/an,/g;
+s/^j_/an_/g;
+s/_j_/_an_/g;s/_j_/_an_/g;
+s/_j,/_an,/g;
+
+s/^h,/ah,/g;
+s/^h_/ah_/g;
+s/_h_/_ah_/g;s/_h_/_ah_/g;
+s/_h,/_ah,/g;
+
+s/^k,/ao,/g;
+s/^k_/ao_/g;
+s/_k_/_ao_/g;s/_k_/_ao_/g;
+s/_k,/_ao,/g;
+
+s/^e,/ee,/g;
+s/^e_/ee_/g;
+s/_e_/_ee_/g;s/_e_/_ee_/g;
+s/_e,/_ee,/g;
+
+s/^z,/ei,/g;
+s/^z_/ei_/g;
+s/_z_/_ei_/g;s/_z_/_ei_/g;
+s/_z,/_ei,/g;
+
+s/^f,/en,/g;
+s/^f_/en_/g;
+s/_f_/_en_/g;s/_f_/_en_/g;
+s/_f,/_en,/g;
+
+s/^g,/eg,/g;
+s/^g_/eg_/g;
+s/_g_/_eg_/g;s/_g_/_eg_/g;
+s/_g,/_eg,/g;
+
+s/^o,/oo,/g;
+s/^o_/oo_/g;
+s/_o_/_oo_/g;s/_o_/_oo_/g;
+s/_o,/_oo,/g;
+
+s/^b,/ou,/g;
+s/^b_/ou_/g;
+s/_b_/_ou_/g;s/_b_/_ou_/g;
+s/_b,/_ou,/g;
+
+
+# 被特殊的儿结尾音
+s/([a-z][a-z])r/$1_er/g;
+
+' "${1}"
+
+
+fi
