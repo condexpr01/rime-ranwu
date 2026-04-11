@@ -18,6 +18,7 @@ clean:
 	-rm -rf ../lib
 
 	-rm ../bin/unique-line
+	-rm ../bin/unique-major-voice
 
 	-rm ../bin/encoder
 	-rm ../bin/encoder-with-filter

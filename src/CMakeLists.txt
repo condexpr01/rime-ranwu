@@ -71,5 +71,7 @@ add_bin_tool(fmt-to-scheme binsrc/fmt-to-scheme.cpp)
 
 add_bin_tool(unique-line binsrc/unique-line.cpp)
 
+add_bin_tool(unique-major-voice binsrc/unique-major-voice.cpp)
+
 
 
