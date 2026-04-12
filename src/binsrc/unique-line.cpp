@@ -1,7 +1,5 @@
 
 //确保行内容唯一
-//和shell里sort -u类似，但sort -u常常出问题，行为和预期不符且破坏性
-
 
 #include <iostream>
 #include <string>

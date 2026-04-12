@@ -25,7 +25,7 @@ int main(int argc ,char *argv[]) try {
 	//聚合后排序
 	for(auto &&k : seq){
 
-		std::sort(k.second.begin(),k.second.end(),[](const auto &a,const auto &b){
+		std::stable_sort(k.second.begin(),k.second.end(),[](const auto &a,const auto &b){
 			if (a.at(0).empty() || b.at(0).empty()) return false;
 
 			if(a[0].length() != b[0].length()) return a[0].length() < b[0].length();
@@ -46,7 +46,7 @@ int main(int argc ,char *argv[]) try {
 	}
 
 	//按 codec 排序
-	std::sort(v.begin(), v.end(),
+	std::stable_sort(v.begin(), v.end(),
 		[](const auto& a, const auto& b) {
 			return a.first < b.first;
 	});

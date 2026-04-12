@@ -11,7 +11,7 @@ int main(){
 	/*
 	vector<pair<int,string>> v{{1,""},{2,""},{3,"asdf"},{4,"asd"}};
 
-	std::sort(v.begin(),v.end(),[](const auto &a ,const auto &b){
+	std::stable_sort(v.begin(),v.end(),[](const auto &a ,const auto &b){
 		const string freqa=a.second;
 		const string freqb=b.second;
 

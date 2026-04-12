@@ -15,7 +15,7 @@ int main(int argc ,char *argv[]) try {
 	for (auto &&k : t){ seq[k.first].push_back(k.second);}
 
 	for(auto &&k : seq){
-		std::sort(k.second.begin(),k.second.end(),[](const auto &a,const auto &b){
+		std::stable_sort(k.second.begin(),k.second.end(),[](const auto &a,const auto &b){
 			if (a.at(2).empty() || b.at(2).empty()) return false;
 
 			if(a[2].length() != b[2].length()) return a[2].length() > b[2].length();
@@ -36,7 +36,7 @@ int main(int argc ,char *argv[]) try {
 	}
 
 	//按 codec 排序
-	std::sort(v.begin(), v.end(),
+	std::stable_sort(v.begin(), v.end(),
 		[](const auto& a, const auto& b) {
 			return a.first < b.first;
 	});

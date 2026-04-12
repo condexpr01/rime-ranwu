@@ -18,7 +18,7 @@ int main(int argc ,char *argv[]) try {
 	if(!is_ok){throw std::runtime_error{error};}
 
 	vector<pair<string,vector<string>>> buffer(table.begin(),table.end());
-	sort(buffer.begin(),buffer.end(),[](const auto &a,const auto & b){
+	std::stable_sort(buffer.begin(),buffer.end(),[](const auto &a,const auto & b){
 		const string worda=a.first;
 		const string wordb=b.first;
 
