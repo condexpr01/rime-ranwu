@@ -56,7 +56,7 @@ int main(int argc ,char *argv[]) try {
 		for (auto &&inner : i.second){
 
 			//wubi限制: 单字不限位置, 词不超过3选
-			if(std::stoull(inner[0]) <= 3 || utf8_length(inner[1]) == 1)
+			if(std::stoull(inner[0]) <= 4 || utf8_length(inner[1]) == 1)
 			cout << format("{},{}={},{}\n",i.first,inner[0],inner[1],inner[2]);
 		}
 	}

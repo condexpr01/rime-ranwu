@@ -81,7 +81,7 @@ struct unique_voice_table{
 				if (find == (*this).table.end()){
 					(*this).table.emplace(c,vector<string>{a,b,d});
 				}else{
-					if ((*find).second[2] < d){
+					if ((*find).second[2].size() <= d.size() && (*find).second[2] < d){
 						(*find).second[0] = a;
 						(*find).second[1] = b;
 						(*find).second[2] = d;
