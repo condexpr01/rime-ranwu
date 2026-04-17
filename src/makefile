@@ -48,6 +48,8 @@ clean:
 	-rm ../bin/sort-codec-seq
 	-rm ../bin/sort-codec-seq-wbfilter
 
+	-rm ../bin/sort-num-selection
+
 	-rm ../bin/make-seq-from-freq
 	-rm ../bin/make-seq-from-freq-wbfilter
 
@@ -62,7 +64,5 @@ clean:
 	-rm -rf ../src/cppcore/.cache
 
 .PHONY: all run clean
-
-
 
 

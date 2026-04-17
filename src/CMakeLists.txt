@@ -73,5 +73,5 @@ add_bin_tool(unique-line binsrc/unique-line.cpp)
 
 add_bin_tool(unique-major-voice binsrc/unique-major-voice.cpp)
 
-
+add_bin_tool(sort-num-selection binsrc/sort-num-selection.cpp)
 

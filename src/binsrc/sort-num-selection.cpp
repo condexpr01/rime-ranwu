@@ -45,18 +45,15 @@ int main(int argc ,char *argv[]) try {
 		v.emplace_back(std::move(k), std::move(val));
 	}
 
-	//按 codec 排序
+	//按 候选数量 排序
 	std::stable_sort(v.begin(), v.end(),
 		[](const auto& a, const auto& b) {
-			return a.first < b.first;
+			return a.second.size() > b.second.size();
 	});
 
 	//输出
 	for(auto &&i : v){
 		for (auto &&inner : i.second){
-
-			//wubi限制: 单字不限位置, 词不超过4选
-			if(std::stoull(inner[0]) <= 4 || utf8_length(inner[1]) == 1)
 			cout << format("{},{}={},{}\n",i.first,inner[0],inner[1],inner[2]);
 		}
 	}
