@@ -70,6 +70,7 @@ add_bin_tool(make-seq-from-freq-wbfilter binsrc/make-seq-from-freq-wbfilter.cpp)
 add_bin_tool(fmt-to-scheme binsrc/fmt-to-scheme.cpp)
 
 add_bin_tool(unique-line binsrc/unique-line.cpp)
+add_bin_tool(unique-line-keep-seq binsrc/unique-line-keep-seq.cpp)
 
 add_bin_tool(unique-major-voice binsrc/unique-major-voice.cpp)
 
