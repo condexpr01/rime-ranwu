@@ -33,7 +33,8 @@ engine:
     - lua_translator@utf8char   # 用于翻译'#'开头的unicode产生候选
     - table_translator          # 用于从translator指定码表翻译字母段
     - punct_translator          # 用于按punctuator表翻译
-    - reverse_lookup_translator # 用于给patterns: reverse_lookup匹配的段反查
+    - reverse_lookup_translator          # 用于给patterns: reverse_lookup匹配的段反查
+    - reverse_lookup_translator@z_lookup # 用于给patterns: z_lookup匹配的段反查
 
 switches:
   - name: ascii_mode
@@ -56,11 +57,13 @@ ascii_composer:
     Shift_L: commit_code
     Shift_R: commit_code
 
-# grave作为反查前缀, e.g. `nihao 你好
+# grave作为反查前缀, e.g. `nihk 你好
+#     z作为反查前缀, e.g. znihk 你好
 # sharp作为输入unicode前缀, e.g. #0x4f60#0x597d 你好
 recognizer:
   patterns:
-    reverse_lookup: "`[a-z]*$"
+    reverse_lookup: "`[a-z]{0,4}$"
+    z_lookup:       "z[a-z]{0,4}$"
     utf8char: "#[0-9a-fA-FxX]*$" #unicode，接受十进制也可以0x的十六进制
 
 # 2、3候选及翻页改到';' "'" '[' ']'
@@ -79,7 +82,7 @@ key_binder:
 
 # 接收[a-y],z接收但编码为功能性,长度到超过4就顶上屏
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: abcdefghijklmnopqrstuvwxy
   max_code_length: 4
 
   #algebra: # z键模糊匹配功能(会显著增加布署所需时间)
@@ -170,10 +173,18 @@ punctuator:
     "~": ["~", "～"]
 
 
-# 反查表
+# grave反查表
 reverse_lookup:
+  tag: reverse_lookup
   dictionary: ranwu
   prefix: "`"
+  tips: ""
+
+# z反查
+z_lookup:
+  tag: z_lookup
+  dictionary: ranwu
+  prefix: "z"
   tips: ""
 
 # 指定码表
