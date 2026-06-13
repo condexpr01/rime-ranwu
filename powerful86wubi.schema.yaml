@@ -2,10 +2,12 @@
 # 帕瓦芙为powerful音译
 
 schema:
-  name: "帕瓦芙.powerful86wubi"
+  name: "舞.86wb"
   schema_id: powerful86wubi
   version: "2026.06.12"
-  authoer: "Vito <condexpr01@outlook.com>"
+  authoer: 
+    - "Vito <condexpr01@outlook.com>"
+    - "86五笔: 王永民"
   description: "git@github.com:condexpr01/rime-wubi86ex"
   dependencies: ["ranwu"]
 

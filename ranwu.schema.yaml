@@ -1,10 +1,12 @@
 # 自然码+五笔辅助(燃舞.ranwu)
 
 schema:
-  name: "燃舞.ranwu"
+  name: "燃.然五音形"
   schema_id: ranwu
   version: "2026.06.12"
-  authoer: "Vito <condexpr01@outlook.com>"
+  authoer: 
+    - "Vito <condexpr01@outlook.com>"
+    - "自然码：周志农, 86五笔: 王永民"
   description: "git@github.com:condexpr01/rime-ranwu"
   dependencies: ["powerful86wubi"]
 
@@ -59,7 +61,7 @@ ascii_composer:
 # sharp作为输入unicode前缀, e.g. #0x4f60#0x597d 你好
 recognizer:
   patterns:
-    reverse_lookup: "`[a-z]*$"   #五笔反查
+    reverse_lookup: "`[a-z]{0,4}$"   #五笔反查
     utf8char: "#[0-9a-fA-FxX]*$" #unicode，接受十进制也可以0x的十六进制
 
 # 2、3候选及翻页改到';' "'" '[' ']'
