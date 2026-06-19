@@ -2040,8 +2040,10 @@ bbrw	并不认为
 bbry	并不容易
 bbry	被捕入狱
 bbt	棒棒糖
+bbt	巴比妥
 bbth	棒棒糖
 bbtm	半边天
+bbto	巴比妥
 bbtt	蹦蹦跳跳
 bbtt	百般挑剔
 bbty	并不同意
@@ -54380,6 +54382,7 @@ jmuh	肩上
 jmuh	减伤
 jmui	监视
 jmui	见识
+jmui	简式
 jmui	坚实
 jmui	监事
 jmui	检视
@@ -61925,7 +61928,6 @@ kjhl	看海
 kjhl	科技含量
 kjhn	瞰
 kjho	看货
-kjhs	会计核算
 kjhu	看护
 kjhw	看花
 kjhy	看家护院
@@ -74412,6 +74414,7 @@ mkdy	锚定
 mke	貌
 mked	梅开二度
 mkee	貌
+mker	猫耳
 mker	猫儿
 mkf	耄
 mkf	麦克风
@@ -135240,6 +135243,7 @@ xrih	轩敞
 xrih	选场
 xrip	渲
 xrir	宣传
+xris	选重
 xriu	选出
 xriv	悬垂
 xriw	陷入重围
@@ -135444,7 +135448,6 @@ xrvr	旋转
 xrvs	选中
 xrvs	选种
 xrvs	悬钟
-xrvs	选重
 xrvu	心如止水
 xrvu	悬着
 xrvx	小人之心
@@ -135836,8 +135839,8 @@ xtgi	系统工程
 xtgk	雪糕
 xtgo	学过
 xtgp	学棍
-xtgr	学馆
 xtgr	血管
+xtgr	学馆
 xtgs	学工
 xtgs	信托公司
 xtgt	协调沟通
@@ -147559,8 +147562,8 @@ ytwo	约我
 ytwq	仪态万千
 ytwr	有天无日
 ytwu	乐舞
-ytwu	一天晚上
 ytwu	一头雾水
+ytwu	一天晚上
 ytww	有头无尾
 ytwx	以汤沃雪
 ytwz	约为
