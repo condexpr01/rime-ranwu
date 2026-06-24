@@ -9414,6 +9414,7 @@ byvi	兵制
 byvj	兵站
 byvj	不言之教
 byvj	布衣之交
+byvk	冰罩
 byvl	必由之路
 byvl	不易之论
 byvm	不要这么
@@ -20013,6 +20014,7 @@ dsid	冻疮
 dsid	东床
 dsie	动车
 dsie	洞彻
+dsig	冻成
 dsig	东城
 dsih	东昌
 dsij	动产
@@ -21026,8 +21028,8 @@ dvfw	堆
 dvfx	掉转方向
 dvfz	堆肥
 dvfz	渎职犯罪
-dvgb	党政干部
 dvgb	对勾
+dvgb	党政干部
 dvgd	对光
 dvgd	跌至谷底
 dvge	对歌
@@ -33118,6 +33120,7 @@ grjq	棺柩
 grjs	骨软筋酥
 grjt	固若金汤
 grjt	官爵
+grju	观剧
 grju	官居
 grjw	管家
 grjw	官家
@@ -44942,6 +44945,7 @@ ietx	车贴
 iety	车停
 ieub	车手
 ieuf	车身
+ieug	车声
 ieuh	车上
 ieuh	扯上
 ieui	车市
@@ -54779,6 +54783,7 @@ jngs	进贡
 jngs	金工
 jngu	禁锢
 jngu	筋骨
+jngu	今古
 jngu	近古
 jngv	金龟
 jngv	矜贵
@@ -112090,6 +112095,7 @@ ujyu	山芋
 ujyu	鳝鱼
 ujyu	擅于
 ujyu	善遇
+ujyu	盛极一时
 ujyu	实机演示
 ujyv	身居要职
 ujyx	时间有限
@@ -117018,6 +117024,7 @@ veuj	折扇
 veuj	这山
 veuo	这说
 veuu	这书
+veuu	谪戍
 veuv	战而胜之
 veuv	这水
 veuv	着水
@@ -126417,6 +126424,7 @@ wljc	外交
 wljc	外教
 wljc	外角
 wlji	外籍
+wlji	外纪
 wlji	外肌
 wlji	物理机
 wljj	武力解决
@@ -146704,6 +146712,7 @@ yrxc	院校
 yrxc	远销
 yrxc	元宵
 yrxd	原想
+yrxi	元夕
 yrxi	院系
 yrxi	原系
 yrxm	原先
@@ -152161,6 +152170,7 @@ zkip	早春
 zkir	造船
 zkir	凿穿
 zkiu	造出
+zkiu	凿出
 zkj	早
 zkjc	早教
 zkjc	皂角
