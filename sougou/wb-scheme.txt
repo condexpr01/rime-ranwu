@@ -39611,8 +39611,8 @@ gotu	亚科
 gotu	严冬
 goty	来往
 goty	来稿
-goud	来头
 goud	来着
+goud	来头
 goud	来凑
 gouf	恶斗
 gouf	不断前进
@@ -59154,8 +59154,8 @@ kcyn	叹词
 kcys	只能这样
 kcyu	只能说
 kd	咕
-kd	号码
 kd	只有
+kd	号码
 kdaw	另有其人
 kdb	呃
 kdbb	顺子
@@ -75542,9 +75542,9 @@ ntkg	尾号
 ntkh	发躁
 ntkh	必跑
 ntkh	改嘴
-ntkk	飞行器
 ntkk	改口
 ntkk	性器
+ntkk	飞行器
 ntkl	性别
 ntkm	飞行员
 ntkn	改叫
@@ -84527,8 +84527,8 @@ pyyn	神鹿
 pyyo	神迹
 pyyq	礼义
 pyys	神魔
-pyyt	福州
 pyyt	神话
+pyyt	福州
 pyyt	神州
 pyyt	神族
 pyyu	实话说
@@ -92749,8 +92749,8 @@ rfem	持股
 rfep	抚爱
 rfes	挂彩
 rfes	挺直腰板
-rff	持
 rff	挂
+rff	持
 rffa	挂载
 rffb	质地
 rffb	遁地
@@ -109728,11 +109728,11 @@ tggm	重责
 tggm	处于下风
 tggn	处事不惊
 tggn	很不开心
-tggo	生来
 tggo	重来
+tggo	生来
 tggo	生灭
-tggo	航天事业
 tggo	惩恶
+tggo	航天事业
 tggq	生死
 tggq	生殖
 tggq	垂死
@@ -120564,8 +120564,8 @@ ukjg	总量
 ukjh	剖
 ukjh	问曰
 ukjs	冲晒
-ukjt	总监
 ukjt	总览
+ukjt	总监
 ukjv	总归
 ukk	癌
 ukka	闹哄哄
@@ -126768,8 +126768,9 @@ vnuv	鼹
 vnuv	鼢
 vnuv	刀痕
 vnux	刀背
-vnvn	妞妞
 vnvn	鼹鼠
+vnvn	鼠鼠
+vnvn	妞妞
 vnvn	妮妮
 vnvn	娓娓
 vnvn	刀刀
@@ -145345,8 +145346,8 @@ ymxu	高弹
 ymxw	调给
 ymy	高山族
 ymya	高度
-ymya	调度
 ymya	调试
+ymya	调度
 ymya	高风亮节
 ymyb	调离
 ymyc	调序

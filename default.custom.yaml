@@ -1,8 +1,8 @@
 
 patch:
   schema_list:
-    - schema: ranwu
     - schema: powerful86wubi
+    - schema: ranwu
 
   key_binder:
     bindings:
