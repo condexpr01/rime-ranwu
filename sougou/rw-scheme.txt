@@ -14053,7 +14053,6 @@ davs	大众
 davs	打肿
 davs	打中
 davu	打住
-davu	大竹
 davu	答主
 davv	大椎
 davw	大抓
