@@ -13756,6 +13756,7 @@ dali	答礼
 dali	达理
 dalj	打烂
 dalk	打捞
+dalk	打牢
 dalk	大牢
 dalk	大佬
 dall	打来
@@ -103546,7 +103547,6 @@ tmtl	天台
 tmtl	通明透亮
 tmtm	天天
 tmtm	甜甜
-tmtm	田田
 tmtm	舔舔
 tmto	填妥
 tmtr	天团
