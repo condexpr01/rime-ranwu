@@ -56619,8 +56619,8 @@ jtcb	矞
 jtcc	叕
 jtce	决策
 jtcf	街头采访
-jtci	家庭财产
 jtci	厥词
+jtci	家庭财产
 jtcl	蕨菜
 jtcl	绝才
 jtcn	𫘝
