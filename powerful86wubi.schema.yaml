@@ -4,10 +4,10 @@
 schema:
   name: "舞.86wb"
   schema_id: powerful86wubi
-  version: "2026.06.12"
+  version: "2026.07.17"
   authoer: 
     - "Vito <condexpr01@outlook.com>"
-    - "86五笔: 王永民"
+    - "86五笔鸣谢: 王永民"
   description: "git@github.com:condexpr01/rime-wubi86ex"
   dependencies: ["ranwu"]
 
@@ -38,12 +38,22 @@ engine:
     - reverse_lookup_translator          # 用于给patterns: reverse_lookup匹配的段反查
     - reverse_lookup_translator@z_lookup # 用于给patterns: z_lookup匹配的段反查
 
+  filters:
+    - simplifier@traditionalize
+
+traditionalize:
+  option_name: traditionalize
+  opencc_config: s2t.json
+  tip: none
+
 switches:
+  - name: traditionalize
+    states: [ 简, 繁 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
   - name: ascii_mode
     reset: 0
     states: [ 中, En ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
 
 # 中英切换，键行为控制
 ascii_composer:

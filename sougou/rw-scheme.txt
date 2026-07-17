@@ -86364,6 +86364,7 @@ pzdm	配殿
 pzdu	陪读
 pzdu	陪都
 pzdv	配对
+pzdv	配队
 pze	胚
 pzee	配额
 pzeg	胚

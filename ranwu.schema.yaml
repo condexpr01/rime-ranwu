@@ -6,7 +6,7 @@ schema:
   version: "2026.06.12"
   authoer: 
     - "Vito <condexpr01@outlook.com>"
-    - "自然码：周志农, 86五笔: 王永民"
+    - "自然码鸣谢：周志农, 86五笔鸣谢: 王永民"
   description: "git@github.com:condexpr01/rime-ranwu"
   dependencies: ["powerful86wubi"]
 
@@ -36,12 +36,22 @@ engine:
     - punct_translator           # 用于按punctuator表翻译
     - reverse_lookup_translator  # 用于给patterns: reverse_lookup匹配的段反查
 
+  filters:
+    - simplifier@traditionalize # 简化繁化
+
+traditionalize:
+  option_name: traditionalize
+  opencc_config: s2t.json
+  tip: none
+
 switches:
+  - name: traditionalize
+    states: [ 简, 繁 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
   - name: ascii_mode
     reset: 0
     states: [ 中, En ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
 
 # 中英切换，键行为控制
 ascii_composer:
@@ -163,8 +173,6 @@ punctuator:
     "/": ["、", "/", "／", "÷"]
     "|": ["·", "|", "｜", "§", "¦"]
     "~": ["~", "～"]
-
-
 
 # 反查表
 reverse_lookup:

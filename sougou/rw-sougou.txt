@@ -86364,6 +86364,7 @@ pzdm,2=配殿
 pzdu,1=陪读
 pzdu,2=陪都
 pzdv,1=配对
+pzdv,2=配队
 pze,1=胚
 pzee,1=配额
 pzeg,1=胚
