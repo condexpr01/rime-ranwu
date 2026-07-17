@@ -7495,6 +7495,7 @@ bude	不舍得
 bude	不是的
 budg	不等
 budh	不当
+budh	补档
 budi	不低
 budi	不敌
 budj	不但
@@ -24337,6 +24338,7 @@ ffnf	愤
 ffnf	粉嫩
 ffni	分你
 ffnl	奋发努力
+ffnn	粉粉嫩嫩
 ffnu	愤怒
 ffnw	翂
 ffnx	分蘖
@@ -39321,6 +39323,8 @@ hlku	喝了口水
 hlkv	海葵
 hlky	还快
 hlky	咳
+hll	哗啦啦
+hlla	哗啦啦
 hlla	火辣辣
 hlld	海量
 hlle	回来了
@@ -41787,6 +41791,7 @@ huuv	湖水
 huux	浑身上下
 huuy	含沙射影
 huv	嫭
+huvb	互肘
 huvb	湖州
 huvb	胡诌
 huvd	糊状
@@ -55216,6 +55221,7 @@ jnxd	尽享
 jnxd	进香
 jnxg	缙
 jnxi	今昔
+jnxi	今夕
 jnxi	浸洗
 jnxi	锦西
 jnxl	技能训练
@@ -99044,6 +99050,7 @@ suli	肃立
 sulj	三十六计
 sull	素来
 sull	死神来了
+sulm	塑炼
 sulm	苏联
 suln	似水流年
 suln	速生林
@@ -99075,8 +99082,8 @@ sunh	嗉囊
 sunj	肃南
 sunj	苏南
 sunl	随手拈来
-sunm	三十年
 sunm	俗念
+sunm	三十年
 suno	夙诺
 sunq	三十年前
 sunv	素女
@@ -103532,6 +103539,7 @@ tmsr	甜酸
 tmst	栝
 tmt	甜
 tmt	舔
+tmta	天塌
 tmta	舔他
 tmtb	甜头
 tmtb	田头
@@ -108285,6 +108293,7 @@ ueii	奢侈
 ueil	十二重楼
 ueir	射穿
 ueiu	射出
+ueiu	社畜
 uej	蛇
 uejc	社交
 uejc	社教
@@ -117760,6 +117769,7 @@ vghh	整行
 vghj	正酣
 vghk	正好
 vghk	证号
+vgho	整活
 vgho	正火
 vghp	征婚
 vghp	证婚
@@ -123397,9 +123407,9 @@ vvmd	长这么大
 vvmg	追梦
 vvmj	种植面积
 vvmj	缀满
-vvmm	政治面貌
 vvmm	朝朝暮暮
 vvmm	锥面
+vvmm	政治面貌
 vvmt	皱着眉头
 vvmu	追慕
 vvmu	照这么说
@@ -129012,9 +129022,9 @@ wyyd	无氧运动
 wyyd	无颜以对
 wyyg	我有一个
 wyyh	乌泱泱
-wyyi	文艺演出
-wyyi	无意义
 wyyi	望眼欲穿
+wyyi	无意义
+wyyi	文艺演出
 wyyj	我意已决
 wyyj	我有一计
 wyyl	万有引力
@@ -153975,7 +153985,6 @@ zull	租来
 zulm	足联
 zuln	租赁
 zulq	阻留
-zulv	祖率
 zulx	暂时领先
 zuly	自身利益
 zulz	族类
@@ -154050,7 +154059,6 @@ zuuu	祖述
 zuuu	嘴上说说
 zuuv	租税
 zuuw	自杀身亡
-zuuy	祖率
 zuvb	诅咒
 zuvd	组装
 zuvd	尊师重道
