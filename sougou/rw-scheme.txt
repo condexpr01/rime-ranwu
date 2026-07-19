@@ -3703,6 +3703,7 @@ bikj	必看
 bikj	壁龛
 bikk	必考
 bikl	避开
+bikl	闭开
 bikl	臂铠
 bikn	咇
 biks	鼻孔
@@ -5023,6 +5024,7 @@ bkmu	报幕
 bkmv	不可名状
 bkmy	报名
 bkmy	保命
+bkmy	爆鸣
 bkmz	胞妹
 bkmz	保媒
 bkn	不可逆
@@ -6650,6 +6652,7 @@ boao	博鳌
 boat	蕃
 boba	波霸
 bobi	薄壁
+bobi	波比
 bobj	薄板
 bobk	播报
 bobl	博白
@@ -9473,6 +9476,7 @@ byxi	报怨雪耻
 byxk	不要小看
 byxk	白眼相看
 byxl	半夜醒来
+byxm	兵线
 byxm	并线
 byxm	兵燹
 byxn	冰心
@@ -23487,6 +23491,7 @@ fadk	发到
 fadl	发呆
 fadl	发带
 fadm	发电
+fadm	发癫
 fadm	法典
 fadm	发点
 fado	法度
@@ -24083,6 +24088,7 @@ fes	凡尔赛
 fesl	凡尔赛
 feth	飞蛾投火
 fetl	伏尔泰
+fets	法厄同
 fevv	分而治之
 feyt	飞儿乐团
 fezj	菲尔兹奖
@@ -25739,6 +25745,7 @@ fjfv	浮家泛宅
 fjfz	翻飞
 fjg	璠
 fjgd	反光
+fjgd	泛光
 fjge	翻个
 fjge	反戈
 fjgg	翻耕
@@ -28381,6 +28388,7 @@ fzlk	肺痨
 fzll	飞来
 fzlm	蜚蠊
 fzln	飞临
+fzln	菲林
 fzlo	飞落
 fzlp	飞轮
 fzlq	飞流
@@ -31798,6 +31806,7 @@ gkzb	高走
 gkzb	高奏
 gkze	膏泽
 gkzh	搞脏
+gkzi	镐子
 gkzi	稿子
 gkzk	高燥
 gkzo	高坐
@@ -41168,6 +41177,7 @@ hsvu	红烛
 hsvy	黄色炸药
 hsw	谼
 hswa	红瓦
+hswf	红温
 hswf	鸿文
 hswj	红丸
 hswl	红外
@@ -46822,6 +46832,7 @@ ijhk	觇
 ijhl	谗害
 ijho	掺和
 ijhv	忏悔
+ijhy	馋坏
 ijhy	超级会员
 iji	潺
 iji	澶
@@ -53055,6 +53066,7 @@ jiwu	既无
 jiwu	急务
 jiwu	及物
 jiwy	集
+jiwy	基元
 jiwy	监察委员
 jiwz	极为
 jiwz	纪委
@@ -57625,7 +57637,6 @@ juyr	剧院
 juyr	枸橼
 juyr	教书育人
 juyr	假手于人
-juys	金属元素
 juyu	居于
 juyu	局域
 juyu	龃龉
@@ -58013,6 +58024,7 @@ jwhe	嘉禾
 jwhg	嘉恒
 jwhj	嫁汉
 jwhk	加号
+jwhk	嘉豪
 jwhl	加害
 jwho	家伙
 jwho	假货
@@ -58255,6 +58267,7 @@ jwrf	贾人
 jwrg	挟
 jwri	假日
 jwrj	戛然
+jwrj	嘉然
 jwrk	加扰
 jwro	假若
 jwrr	佳软
@@ -60423,6 +60436,7 @@ kbk	叩
 kbk	口
 kbkb	叩
 kbkb	口口
+kbkb	扣扣
 kbke	口渴
 kbkf	肯不肯
 kbkj	看不看
@@ -72900,8 +72914,8 @@ mcvu	庙祝
 mcvu	庙主
 mcvy	民粹主义
 mcwf	妙文
-mcwu	莫此为甚
 mcwu	喵呜
+mcwu	莫此为甚
 mcwu	妙舞
 mcx	缈
 mcxc	渺小
@@ -74104,6 +74118,7 @@ mjbj	慢板
 mjbj	慢班
 mjbk	瞒报
 mjbl	满百
+mjbo	曼波
 mjbo	慢波
 mjbu	漫步
 mjbu	慢步
@@ -79898,6 +79913,7 @@ njqp	能近取譬
 njqq	难求
 njqq	年纪轻轻
 njqr	南拳
+njqr	男拳
 njqr	男权
 njqr	南极圈
 njqu	南区
@@ -80979,7 +80995,6 @@ nqmg	牛虻
 nqmi	牛米
 nqmk	牛毛
 nqmm	年轻貌美
-nqmm	南拳妈妈
 nqmu	牛目
 nqmy	浓情蜜意
 nqn	忸
@@ -81647,6 +81662,7 @@ nvqk	扭转乾坤
 nvqp	女裙
 nvqq	女囚
 nvqr	女权
+nvqr	女拳
 nvqv	钕
 nvqw	囊中取物
 nvr	女主人
@@ -89300,6 +89316,7 @@ qmxy	潜行
 qmxy	千行
 qmy	谦
 qmy	谴
+qmya	前压
 qmya	钱呀
 qmya	签押
 qmyb	前有
@@ -112458,7 +112475,6 @@ ulc	数量词
 ulci	数量词
 ulck	说来惭愧
 uld	手榴弹
-uldd	杀戮地带
 uldi	闪亮登场
 uldj	手榴弹
 uldx	上了大学
@@ -119109,6 +119125,7 @@ vimf	峙
 vimg	之梦
 vimg	之盟
 vimh	帜
+vimh	致盲
 vimh	帙
 vimi	致密
 vimi	之谜
@@ -119521,6 +119538,7 @@ viwx	侦察卫星
 viwx	转嗔为喜
 viwz	只为
 viwz	职位
+viwz	置位
 viwz	值为
 viwz	之威
 viwz	之谓
@@ -124350,6 +124368,7 @@ waj	蛙
 wajc	挖角
 wajd	瓦匠
 wajf	蛙
+waji	挖机
 wajt	挖掘
 wajt	挖角
 wajx	瓦解
@@ -127073,6 +127092,7 @@ woih	我常
 woih	我厂
 woih	我唱
 woii	我吃
+woii	握持
 woik	涡
 woik	我超
 woik	窝巢
@@ -129245,6 +129265,7 @@ wzhk	尾号
 wzhl	危害
 wzhl	威海
 wzhl	为害
+wzho	位或
 wzho	未获
 wzho	微火
 wzho	尾货
@@ -129823,6 +129844,7 @@ wzyt	诿
 wzyu	位于
 wzyu	卫浴
 wzyu	谓语
+wzyu	位与
 wzyu	未予
 wzyw	亹
 wzyx	文字游戏
@@ -151021,6 +151043,7 @@ zgfu	增幅
 zgfy	最高法院
 zgfy	自告奋勇
 zgfz	增肥
+zggd	增广
 zggd	增光
 zggd	祖国各地
 zggi	走个过场
