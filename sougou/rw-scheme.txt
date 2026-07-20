@@ -80995,6 +80995,7 @@ nqmg	牛虻
 nqmi	牛米
 nqmk	牛毛
 nqmm	年轻貌美
+nqmo	牛魔
 nqmu	牛目
 nqmy	浓情蜜意
 nqn	忸

@@ -80995,6 +80995,7 @@ nqmg,1=牛虻
 nqmi,1=牛米
 nqmk,1=牛毛
 nqmm,1=年轻貌美
+nqmo,1=牛魔
 nqmu,1=牛目
 nqmy,1=浓情蜜意
 nqn,1=忸
