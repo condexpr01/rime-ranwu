@@ -34209,6 +34209,7 @@ gufu	古佛
 gufw	国事访问
 gufy	高山反应
 gufz	过失犯罪
+guga	咕嘎
 gugb	公事公办
 guge	骨骼
 guge	谷歌
@@ -50620,9 +50621,9 @@ jcjc	嚼嚼
 jcjc	缴交
 jcjd	椒江
 jcjh	借此机会
-jcji	交际
 jcji	焦急
 jcji	交集
+jcji	交际
 jcji	叫鸡
 jcji	脚迹
 jcjl	精彩绝伦
@@ -98102,6 +98103,7 @@ sofu	所附
 sofu	所付
 sofz	所费
 sog	琐
+soga	嗦嘎
 sogb	所购
 sogd	索广
 sogi	琐
@@ -145202,6 +145204,7 @@ yngb	阴沟
 yngd	银光
 yngd	用脑过度
 yngf	银根
+yngj	音感
 yngj	阴干
 yngk	音高
 yngk	隐睾
