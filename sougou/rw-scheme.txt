@@ -66803,6 +66803,7 @@ lipn	力拼
 lipu	离谱
 lipv	露出破绽
 lipy	礼
+lipy	离屏
 lipz	理赔
 liq	狸
 liq	鲤
@@ -123344,6 +123345,7 @@ vvfc	辗转反侧
 vvff	这种方法
 vvfg	追风
 vvfh	追访
+vvfj	追番
 vvfm	政治方面
 vvfu	这种方式
 vvfu	执政方式
