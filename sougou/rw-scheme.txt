@@ -13930,6 +13930,7 @@ dasi	大肆
 dasi	大四
 dasi	打私
 dasj	打散
+dasj	打伞
 dasj	大三
 dask	打扫
 dask	大嫂
@@ -57478,6 +57479,7 @@ juub	聚首
 juub	居首
 juub	据守
 juub	巨手
+juub	巨兽
 juue	疽
 juue	剧社
 juuf	拘审
@@ -88408,15 +88410,15 @@ qiye	凄咽
 qiyh	祁阳
 qiyh	奇痒
 qiyh	弃养
-qiyi	其一
-qiyi	起义
-qiyi	奇异
 qiyi	歧义
+qiyi	奇异
+qiyi	其一
+qiyi	起疑
+qiyi	起义
 qiyi	棋艺
 qiyi	七一
-qiyi	起疑
-qiyi	歧异
 qiyi	歧意
+qiyi	歧异
 qiyj	齐
 qiyj	气焰
 qiyj	其言
@@ -88541,7 +88543,6 @@ qjld	请见谅
 qjli	轻解罗裳
 qjlu	轻解罗裳
 qjlx	全家老小
-qjlx	勤加练习
 qjma	取件码
 qjmg	千金买骨
 qjmn	情景模拟
@@ -96404,6 +96405,7 @@ sesu	色素
 set	穑
 setc	色条
 setf	穑
+setu	色图
 seuf	色深
 seuy	色衰
 sevi	色织
@@ -109922,11 +109924,12 @@ uhjd	上将
 uhjd	上浆
 uhjd	上海交大
 uhjg	社会结构
-uhji	上级
+uhji	伤及
 uhji	商机
+uhji	售货机
+uhji	上级
 uhji	上机
 uhji	上集
-uhji	伤及
 uhji	上计
 uhjj	身怀绝技
 uhjj	社会经济
@@ -137810,6 +137813,7 @@ xxrj	欣欣然
 xxrk	欣喜若狂
 xxrn	选贤任能
 xxrr	熙熙攘攘
+xxrr	香香软软
 xxru	写入
 xxru	栩栩如生
 xxru	熊熊燃烧
@@ -138524,6 +138528,7 @@ xyvd	形状
 xyvd	性状
 xyvd	行装
 xyvd	星状
+xyve	醒着
 xyve	行者
 xyvf	刑侦
 xyvf	婞
@@ -146302,9 +146307,10 @@ yrbf	隐忍不发
 yrbh	圆棒
 yrbi	远比
 yrbi	援笔
+yrbj	原班
 yrbj	原版
-yrbj	院办
 yrbj	一日不见
+yrbj	院办
 yrbk	元宝
 yrbk	院报
 yrbo	渊博
