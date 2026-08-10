@@ -14258,6 +14258,7 @@ dbdm	逗点
 dbdq	东北地区
 dbds	抖动
 dbds	都懂
+dbds	懂不懂
 dbds	动不动
 dbdu	对比度
 dbdu	兜肚
@@ -22441,6 +22442,8 @@ ee	呃呃
 eea	萼
 eea	莪
 eea	苊
+eeaa	呃啊
+eeaa	饿啊
 eeaa	恩恩爱爱
 eead	苊
 eeak	萼
@@ -48046,6 +48049,7 @@ ipxp	春汛
 ipxr	椿萱
 ipxt	春雪
 ipxt	纯血
+ipxu	纯虚
 ipxu	长篇小说
 ipxw	春夏
 ipxx	纯血
@@ -82320,6 +82324,7 @@ nzlx	内在联系
 nzm	内
 nzma	内码
 nzmb	那怎么办
+nzme	那怎么
 nzmf	内门
 nzmg	内蒙
 nzmh	那怎么会
@@ -136397,6 +136402,7 @@ xujg	旴
 xujh	勖
 xuji	续集
 xuji	蓄积
+xuji	虚基
 xuji	新手教程
 xujk	冔
 xujl	刑事拘留
