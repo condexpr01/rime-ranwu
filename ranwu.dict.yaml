@@ -6648,6 +6648,7 @@ bnzv	不能自制
 bnzw	不怒自威
 bnzy	不能自已
 bo	波
+bo	函数
 bo	布偶
 boa	薄
 boa	菠
@@ -46784,6 +46785,7 @@ ijb	冲击波
 ijb	传家宝
 ijbb	处惊不变
 ijbc	觇标
+ijbd	察觉不到
 ijbh	缠绑
 ijbi	察觉不出
 ijbk	传家宝
@@ -46803,8 +46805,9 @@ ijdc	铲掉
 ijdg	超级大国
 ijdi	产地
 ijdj	产蛋
-ijdk	产道
 ijdk	铲刀
+ijdk	产道
+ijdk	察觉到
 ijdl	长江电力
 ijdl	察觉到了
 ijdn	初见端倪
@@ -49341,10 +49344,10 @@ iuuf	出神
 iuuf	处身
 iuuf	厨神
 iuug	出生
-iuug	出声
 iuug	畜生
-iuug	初生
 iuug	畜牲
+iuug	出声
+iuug	初生
 iuuh	仇深似海
 iuui	初始
 iuui	出事
@@ -59281,6 +59284,7 @@ jxyj	解严
 jxyk	解药
 jxyk	惊喜欲狂
 jxyl	机械原理
+jxyn	结印
 jxyn	皆因
 jxyn	接引
 jxyp	捷运
@@ -100244,8 +100248,8 @@ tbbi	投笔
 tbbi	头臂
 tbbj	头版
 tbbj	特别版
-tbbk	投保
 tbbk	头孢
+tbbk	投保
 tbbl	透白
 tbbm	头边
 tbbq	踏步不前
