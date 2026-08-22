@@ -4021,6 +4021,7 @@ bixy	笔形
 bixy	比兴
 biy	庇
 biy	庳
+biya	笔压
 biya	比呀
 biyb	必有
 biyb	庇佑
@@ -139277,8 +139278,8 @@ ybej	言不二价
 ybel	有备而来
 ybel	一般而论
 yben	有恩
-yber	幼儿
 yber	诱饵
+yber	幼儿
 yber	繇
 yber	有耳
 ybey	一般而言
