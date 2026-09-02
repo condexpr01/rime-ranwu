@@ -45817,6 +45817,7 @@ igyt,1=呈阅
 igyt,2=成约
 igyu,1=成语
 igyu,2=称誉
+igyu,3=城域
 igyx,1=传国玉玺
 igyy,1=承应
 igyy,2=澄莹
