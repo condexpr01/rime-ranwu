@@ -88,10 +88,10 @@ key_binder:
     - { when: always, accept: Shift_L, toggle: ascii_mode }
     - { when: always, accept: Shift_R, toggle: ascii_mode }
 
-# 接收[a-y],z接收但编码为功能性,长度到超过4就顶上屏
-#speller:
-  #alphabet: abcdefghijklmnopqrstuvwxyz
-  #max_code_length: 4
+# 长度到超过4就顶上屏
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  max_code_length: 4
 
 
 # 符号表
@@ -184,6 +184,6 @@ reverse_lookup:
 translator:
   dictionary: ranwu          # ranwu.dict.yaml
   enable_user_dict: false    # 不启用用户词典
-  enable_sentence: true      # 造句
+  enable_sentence: false     # 不造句
 
 
