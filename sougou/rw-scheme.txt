@@ -4822,8 +4822,8 @@ bkgr	包管
 bkgs	包工
 bkgs	包公
 bkgs	报功
-bkgu	包谷
 bkgu	苞谷
+bkgu	包谷
 bkgv	宝贵
 bkgw	包括
 bkgz	包给
@@ -16814,6 +16814,7 @@ djbm	聃
 djbo	单薄
 djbo	淡薄
 djbo	淡泊
+djbo	单播
 djbo	弹拨
 djbp	耽
 djbp	斗酒百篇
