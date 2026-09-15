@@ -5558,8 +5558,8 @@ bkwu	宝物
 bkwu	报务
 bkwx	不开玩笑
 bkwy	闭口无言
-bkwz	保卫
 bkwz	包围
+bkwz	保卫
 bkx	鸨
 bkx	不开心
 bkxc	报销
@@ -120313,6 +120313,7 @@ uulz	鼠类
 uum	赎
 uum	殳
 uuma	数码
+uuma	输麻
 uuma	熟吗
 uuma	是什么啊
 uumc	树苗
@@ -130287,6 +130288,7 @@ vvqw	锥
 vvqy	只知其一
 vvr	揣
 vvrb	赘肉
+vvrf	追人
 vvrf	追认
 vvrj	重装软件
 vvrk	暂住人口
@@ -143345,6 +143347,7 @@ xtdc	削掉
 xtde	学的
 xtdi	雪地
 xtdi	血滴
+xtdi	学弟
 xtdk	学到
 xtdk	穴道
 xtdk	学道
@@ -146236,6 +146239,7 @@ xyxy	悻悻
 xyxy	行行
 xyxy	星型
 xyxy	省省
+xyy	性压抑
 xyya	行呀
 xyye	兴业
 xyye	星爷
@@ -146246,6 +146250,7 @@ xyyh	姓杨
 xyyh	闲云野鹤
 xyyi	行医
 xyyi	兴义
+xyyi	性压抑
 xyyi	学业有成
 xyyj	心有余悸
 xyyj	杏眼
@@ -158209,6 +158214,7 @@ yyly	英灵
 yylz	营垒
 yym	婴
 yym	鹦
+yyma	赢麻
 yymb	阴云密布
 yymf	营门
 yymf	盈门
