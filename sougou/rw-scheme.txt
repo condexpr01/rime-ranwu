@@ -32046,7 +32046,6 @@ ghhk	刚好
 ghho	刚火
 ghhr	刚换
 ghhs	港红
-ghhu	鬼画糊
 ghhv	刚回
 ghhw	钢化
 ghi	港
@@ -38038,6 +38037,7 @@ hbuh	后晌
 hbui	后事
 hbui	厚实
 hbui	后世
+hbui	后室
 hbui	还不是
 hbui	红宝石
 hbui	后市
