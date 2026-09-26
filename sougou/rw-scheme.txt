@@ -133791,8 +133791,8 @@ wmvd	我们知道
 wmvd	无名肿毒
 wmve	我们这儿
 wmvf	文明执法
-wmvg	伪满洲国
 wmvg	我们中国
+wmvg	伪满洲国
 wmvh	无名之火
 wmvi	无名指
 wmvi	无米之炊
@@ -133805,8 +133805,8 @@ wmvv	我们这种
 wmvw	闻名中外
 wmvw	无冕之王
 wmvx	我们这些
-wmvy	唯美主义
 wmvy	完美主义
+wmvy	唯美主义
 wmwb	王码五笔
 wmwc	完美无疵
 wmwf	无名无份
