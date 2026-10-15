@@ -35231,8 +35231,9 @@ gsju	工具
 gsju	共聚
 gsju	共居
 gsju	公举
-gsjw	公家
+gsjw	共价
 gsjw	蚣
+gsjw	公家
 gsjw	公假
 gsjw	工架
 gsjx	攻讦
@@ -35654,12 +35655,12 @@ gtrw	共同任务
 gts	古铜色
 gtse	古铜色
 gtsp	龟兔赛跑
-gtt	甘特图
 gtt	共同体
+gtt	甘特图
 gttg	共同提高
 gtti	共同体
-gttu	甘特图
 gttu	光秃秃
+gttu	甘特图
 gttu	高台跳水
 gtue	共同社
 gtuh	共同生活
@@ -42391,6 +42392,7 @@ hqyv	虎躯一震
 hqyx	花前月下
 hqzb	荒腔走板
 hqzh	黄雀在后
+hqzt	豪情在天
 hqzu	后勤组
 hr	换
 hr	忽然
@@ -73581,6 +73583,7 @@ lqyi	六艺
 lqyj	刘
 lqyj	留言
 lqyj	流言
+lqyj	六眼
 lqyk	柳腰
 lqyn	流音
 lqyn	柳荫
@@ -102352,6 +102355,7 @@ siji	四季
 siji	四级
 siji	死寂
 siji	俟机
+siji	三叉戟
 sijj	蛳
 sijm	四件
 sijm	四溅
@@ -151384,6 +151388,7 @@ yjg	焉
 yjgb	烟垢
 yjgd	眼光
 yjgd	验光
+yjgd	厌光
 yjge	严格
 yjge	阉割
 yjge	沿革
