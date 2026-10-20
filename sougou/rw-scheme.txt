@@ -38341,9 +38341,9 @@ hdhp	黄昏
 hdhp	获得好评
 hdhs	鹤顶红
 hdhs	黄红
-hdhu	或多或少
 hdhu	恍惚
 hdhu	患得患失
+hdhu	或多或少
 hdhw	黄花
 hdhw	谎话
 hdhw	黄骅
@@ -63471,6 +63471,7 @@ kahr	卡环
 kaia	咔嚓
 kaia	喀嚓
 kaie	卡车
+kaii	卡池
 kaii	卡尺
 kaiu	卡出
 kaji	卡机
@@ -80393,6 +80394,7 @@ mozo	默坐
 mozo	末座
 mozp	魔尊
 mozu	模组
+mozu	魔族
 mozv	磨嘴
 mp	门票
 mp	名牌
