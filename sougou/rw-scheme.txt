@@ -70788,6 +70788,7 @@ ljbd	另据报道
 ljbf	蓝本
 ljbg	屡教不改
 ljbg	累教不改
+ljbi	烂逼
 ljbj	篮板
 ljbj	屡禁不绝
 ljbj	廉价版
@@ -70972,6 +70973,7 @@ ljou	烂
 ljp	褴
 ljp	襕
 ljpd	离经叛道
+ljpi	烂批
 ljpi	蓝皮
 ljpl	蓝牌
 ljpm	烂片
@@ -79110,6 +79112,7 @@ mlns	面露难色
 mlnu	买
 mlpc	买票
 mlpc	卖票
+mlpi	卖批
 mlpj	买盘
 mlpj	卖盘
 mlpm	麦片
@@ -85116,6 +85119,7 @@ nmry	那么容易
 nms	柠檬酸
 nmsi	碾死
 nmsj	廿三
+nmsl	你妈死了
 nmsr	柠檬酸
 nmss	念诵
 nmsu	年俗
@@ -102371,6 +102375,7 @@ sijq	四九
 sijq	思旧
 sijq	四旧
 sijr	四卷
+sijt	死绝
 sijt	四绝
 siju	四句
 siju	死局
@@ -102442,6 +102447,7 @@ silz	四类
 sim	兕
 sim	飔
 sim	㟃
+sima	死妈
 sima	司马
 sima	四码
 simb	思谋
@@ -157275,6 +157281,7 @@ yvyd	严阵以待
 yvyd	圆周运动
 yvyf	一正一负
 yvyh	邮政银行
+yvyi	又脏又臭
 yvyi	有张有弛
 yvyi	一张一弛
 yvyj	一转眼
