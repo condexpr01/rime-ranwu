@@ -21116,6 +21116,7 @@ dspz	冻胚
 dsqd	东墙
 dsqi	动气
 dsqm	动迁
+dsqr	动圈
 dsqr	东泉
 dsqu	东区
 dsqu	东去
@@ -103750,6 +103751,7 @@ soqm	所签
 soqm	索欠
 soqq	所求
 soqq	索求
+soqr	缩圈
 soqt	所缺
 soqu	索取
 soqu	所趋
